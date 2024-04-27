@@ -1,0 +1,134 @@
+body {
+  background-image: url(".\img\Ranipuram-Kerala.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/*.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+  }
+  
+  
+  body {
+    background-image: url(images\(3\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }*/
+
+nav {
+  background-color: #333;
+  color: #fff;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 25px;
+  position: relative;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: darkkhaki;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+
+.navbar-brand {
+  float: right;
+}
+
+
+
+
+
+/*menu*/
+
+/*.....*/
+
+
+/*footerlist-style: none;*/
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  margin-top: auto;
+}
+
+.contact-us {
+  text-align: center;
+}
+
+.contact-us h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.contact-us p {
+  margin-bottom: 10px;
+}
+
+.contact-us ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-us li {
+  margin-bottom: 5px;
+}
+
+.social-media a {
+  color: #fff;
+  margin-right: 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.social-media a:hover {
+  color: #aaa;
+}
+
+
+
+
+
+
+/* contact */
+
+.container {
+  padding-top: 20em;
+  padding-left: 100em;
+  padding-bottom: 20em;
+}
+
+.container label {
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* contact */
+
+.container {
+  padding-top: 20em;
+  padding-left: 100em;
+  padding-bottom: 20em;
+}
+
+.container label {
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

@@ -1,0 +1,29 @@
+.book {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.book label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.book input[type="text"],
+.book input[type="email"],
+.book input[type="date"],
+.book textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+.book input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+}
+
+.book input[type="submit"]:hover {
+  background-color: #45a049;
+}

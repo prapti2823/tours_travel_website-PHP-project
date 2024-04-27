@@ -1,0 +1,11 @@
+body{
+    background-image: url(admin-word-written-on-wooden-260nw-1763707634.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+img{
+    opacity: 50%;
+}

@@ -1,0 +1,164 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+
+body {
+  background-image: url("../img/pngtree-tourism-travel-lighthouse-cloud-image_14516.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* min-height: 100vh; */
+  /* padding-bottom: 0; */
+}
+
+.container {
+  padding: 20px;
+  /* max-width: 30%; */
+  height: 600px;
+  margin: 0 auto;
+  padding: 50px;
+  align-items: center;
+  justify-items: center;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h2 {
+  font-size: 45px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+
+.form-group input {
+  width: 50%;
+  padding: 15px;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.form-group button {
+  width: 50%;
+  padding: 15px;
+  font-size: 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.form-group button:hover {
+  background-color: #45a049;
+}
+
+nav {
+  background-color: white;
+  color: #fff;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 20px;
+  position: relative;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: darkkhaki;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+
+.navbar-brand {
+  float: left;
+}
+
+
+
+
+p {
+  padding-top: 20px;
+  font-size: 25px;
+}
+
+p a {
+  text-decoration: none;
+  color: gold;
+}
+
+p a:hover {
+  color: brown;
+}
+
+div i {
+  font-size: 20px;
+  padding: 10px;
+}
+
+div i:hover {
+
+  cursor: pointer;
+}
+
+footer {
+  background-color: white;
+  color: #fff;
+  padding: 20px;
+  margin-top: auto;
+}
+
+.contact-us {
+  text-align: center;
+}
+
+.contact-us h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.contact-us p {
+  margin-bottom: 10px;
+}
+
+.contact-us ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-us li {
+  margin-bottom: 5px;
+}
+
+/* .social-media a {
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .social-media a:hover {
+    color: #aaa;
+  } */

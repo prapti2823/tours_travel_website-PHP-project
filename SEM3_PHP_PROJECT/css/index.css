@@ -1,0 +1,253 @@
+body {
+  background: url("../img/login.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/*.container {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+}*/
+.bg {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bg h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.row {
+  padding-top: 3em;
+}
+
+.row h1 {
+  font-size: 50px;
+  padding-bottom: 50px;
+}
+
+nav {
+  background-color: #333;
+  color: #fff;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 25px;
+  position: relative;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: darkkhaki;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+
+.navbar-brand {
+  float: right;
+}
+
+
+
+/*menu*/
+/*.....*/
+
+
+/*footerlist-style: none;*/
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  margin-top: auto;
+}
+
+.contact-us {
+  text-align: center;
+}
+
+.contact-us h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.contact-us p {
+  margin-bottom: 10px;
+}
+
+.contact-us ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-us li {
+  margin-bottom: 5px;
+}
+
+.social-media a {
+  color: #fff;
+  margin-right: 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.social-media a:hover {
+  color: #aaa;
+}
+
+/* div .logo{
+  top: 50%;
+} */
+
+
+div h1 {
+  text-align: center;
+  color: blue;
+  padding: 20px;
+  background-color: #aaa;
+}
+
+.col img {
+  /*filter: grayscale(80%);*/
+  transition: 0.5s;
+}
+
+.col img:hover {
+  cursor: pointer;
+  /* filter: grayscale(0);*/
+  transform: scale(1.1);
+}
+
+
+/* contact */
+
+.container {
+  padding-top: 20em;
+  padding-left: 100em;
+  padding-bottom: 20em;
+}
+
+.container label {
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text {
+  position: absolute;
+  bottom: 20px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  width: 100%;
+  z-index: 9;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.image {
+  padding: 20px;
+  border-radius: 20px;
+}
+
+
+
+h2 {
+  text-align: center;
+}
+
+
+.test {
+  text-align: justify;
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: auto auto auto;
+  max-width: 1600px;
+  padding-top: 10px;
+  padding-left: 4em;
+}
+
+.con {
+  max-width: 1500px;
+}
+
+.content {
+  display: flex;
+  padding: 100px;
+}
+
+.content .para {
+  width: 350px;
+  height: 350px;
+  padding: 20px;
+  /*box-shadow: 2px 2px 2px 2px rgb(36, 35, 35);*/
+}
+
+.para p,
+h1,
+h2,
+h3 {
+  color: white;
+}
+
+div i {
+  font-size: 25px;
+  padding: 10px;
+}
+
+div i:hover {
+  cursor: pointer;
+}
+
+
+button {
+  font-size: 50px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+
+.contain {
+  max-width: 1500px;
+  padding-top: 1em;
+  /* padding-left: 4em */
+  padding-left: 7em;
+  padding-bottom: 10em;
+}
+
+.col {
+  padding: 10px;
+}
+
+p a {
+  text-decoration: none;
+  padding: 5px;
+  font-size: 20px;
+}
+
+p a:hover {
+  color: orange;
+}

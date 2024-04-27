@@ -1,0 +1,209 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+
+/* .container {
+    padding: 20px; */
+/* max-width: 30%;
+height: 600px;
+margin: 0 auto;
+padding: 50px;
+align-items: center;
+justify-items: center;
+background-color: #fff;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+
+.form-group input {
+    width: 50%;
+    padding: 15px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.form-group button {
+    width: 50%;
+    padding: 15px;
+    font-size: 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #45a049;
+}
+
+*/
+nav {
+    background-color: black;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+.navbar-brand {
+    float: left;
+}
+
+
+.header {
+    position: relative;
+    height: 500px;
+}
+
+.header h1 {
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    font-size: 80px;
+    color: white;
+}
+
+.container {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-top: 50px;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.form-container {
+    margin-left: 50px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.form-group button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #45a049;
+}
+
+.form-group p {
+    margin-top: 10px;
+}
+
+.form-group p a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+
+
+div i {
+    font-size: 20px;
+    padding: 10px;
+}
+
+div i:hover {
+
+    cursor: pointer;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: auto;
+}
+
+.contact-us {
+    text-align: center;
+}
+
+.contact-us h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.contact-us p {
+    margin-bottom: 10px;
+}
+
+.contact-us ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-us li {
+    margin-bottom: 5px;
+}
+
+/* .social-media a {
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .social-media a:hover {
+    color: #aaa;
+  } */

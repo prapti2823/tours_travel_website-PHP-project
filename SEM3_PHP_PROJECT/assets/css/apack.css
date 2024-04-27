@@ -1,0 +1,37 @@
+body{
+    display: flex;
+}
+
+.pack{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+label{
+    font-size: 20px;
+    padding: 20px;
+}
+
+input,textarea{
+    padding: 10px;
+}
+
+/*form div{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    padding-left: 30px;
+}
+
+form div label{
+    position: absolute;
+    font-size: 20px;
+}
+
+form div input{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}*/

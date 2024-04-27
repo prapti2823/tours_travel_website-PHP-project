@@ -1,0 +1,128 @@
+  /* body {
+    background-image: url('../img/travel.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+
+  nav {
+    background-color: black;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+  }
+
+  nav ul li {
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+  }
+
+  nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+  }
+
+  nav ul li a:hover {
+    background-color: #555;
+  }
+
+  .navbar-brand {
+    float: left;
+  }
+
+
+
+  div h3 {
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  /*menu*/
+
+  /*.....*/
+
+
+  /*footerlist-style: none;*/
+  footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: auto;
+  }
+
+  .contact-us {
+    text-align: center;
+  }
+
+  .contact-us h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .contact-us p {
+    margin-bottom: 10px;
+  }
+
+  .contact-us ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .contact-us li {
+    margin-bottom: 5px;
+  }
+
+  .social-media a {
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+
+  .social-media a:hover {
+    color: #aaa;
+  }
+
+  /*.container {
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    padding: 20px;
+  }
+  
+  .container img {
+    max-width: 450px;
+    height: auto;
+    
+  }
+  
+  .content {
+    padding-left: 100px;
+  }
+
+  */
+
+  div i {
+    font-size: 20px;
+    padding: 10px;
+  }
+
+  div i:hover {
+
+    cursor: pointer;
+  }
+
+  div h1 {
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }

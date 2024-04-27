@@ -1,0 +1,114 @@
+body {
+    background-image: url("../img/beautiful-light-blue-pastel-background-minimal-scene-blue-empty-room-stand-show-cosmetic-product-stage-showcase-pastel-color-sky-blue-background-vector.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.main {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    padding: 15px;
+    color: darkmagenta;
+}
+
+h2 {
+    font-size: 10px;
+    text-indent: 100px;
+}
+
+
+.h3 {
+    color: red;
+    font-size: 40px;
+}
+
+.container {
+    border: 2px solid black;
+    max-width: 1000px;
+    padding: 20px;
+    /* margin-left: 20%; */
+}
+
+nav {
+    background-color: black;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+.navbar-brand {
+    float: left;
+}
+
+
+
+
+
+/*menu*/
+/*.....*/
+
+
+/*footerlist-style: none;*/
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: auto;
+}
+
+.contact-us {
+    text-align: center;
+}
+
+.contact-us h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.contact-us p {
+    margin-bottom: 10px;
+}
+
+.contact-us ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-us li {
+    margin-bottom: 5px;
+}
+
+div i {
+    font-size: 20px;
+    padding: 10px;
+}
+
+div i:hover {
+    cursor: pointer;
+}
